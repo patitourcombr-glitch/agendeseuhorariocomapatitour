@@ -1,0 +1,5 @@
+{
+  "name": "Patitour Agenda Fácil",
+  "description": "A sophisticated pedagogical tourism scheduling system with real-time slot selection, Google Sheets integration, and automated EmailJS notifications.",
+  "requestFramePermissions": []
+}
